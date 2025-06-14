@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyyaml
+langchain
+langchain-huggingface
+python-dotenv
